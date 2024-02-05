@@ -1,2 +1,2 @@
-# exerc-cio-DIO.me
+# exercicio-DIO.me
 exercício da plataforma DIO.me
